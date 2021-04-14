@@ -1,4 +1,4 @@
-baseURL = "http://ayhsmt97.github.io/myblog" # The URL of your site.
+baseURL = "https://sunday-game-creator.netlify.app/" # The URL of your site.
 title = "日曜ゲームくりえいたー" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
