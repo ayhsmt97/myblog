@@ -34,7 +34,7 @@ header:
     spaceBetweenTitleSubtitle: 16
   
   - type: img
-    imageSrc: images/header/header.jpg
+    imageSrc: images/header/header.webp
     imageSize: cover
     imageRepeat: no-repeat
     imagePosition: center
