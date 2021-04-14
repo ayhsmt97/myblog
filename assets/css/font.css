@@ -2,8 +2,8 @@
     font-family: 'Koruri';
     /*src: url('../fonts/WebKoruri.eot');
     src: url('../fonts/WebKoruri.eot?#iefix') format('embedded-opentype');*/
-    src: url('../fonts/WebKoruri.woff2') format('woff2');
-    src: url('../fonts/WebKoruri.woff') format('woff');
+    src: url('../fonts/WebKoruri.woff2') format('woff2'),
+         url('../fonts/WebKoruri.woff') format('woff');
     /*     url('../fonts/WebKoruri.ttf') format('truetype');*/
     font-weight: normal;
     font-style: normal;
